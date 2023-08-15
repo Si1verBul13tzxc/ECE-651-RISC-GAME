@@ -1,0 +1,18 @@
+Objective
+Conquer the world! Take over every territory on the map to win!
+
+Map
+Initial territory allocation is automatically determined at the start of the game. The world consists of 24 territories, split equally among the players. Each player begins with 30 units to distribute throughout their territories.
+
+Instructions
+- Select one of the following options to begin:
+    - Create new game - start a new game and select number of players
+    - Join game - join a new game waiting for certain number of players to begin
+    - Rejoin game - rejoin an active game to continue playing 
+
+- During each turn, you will have the chance to send orders (upgrade, move, attack, research, alliance)
+
+- Extra features within game:
+    - Enter chat room - send messages to other players and plan alliances
+    - Exit the game - leave (and rejoin) anytime during game play
+    - How to play - review game instructions
